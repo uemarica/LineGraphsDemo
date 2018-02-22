@@ -1,3 +1,12 @@
+/*Warmup exercise for GSOC 2018
+*
+* Finding the common ancestor of two given person from a given graph
+*
+* using the JGrapht library
+*
+* Author: Arica Chakraborty
+* Date: 2/22/2018*/
+
 package org.jgrapht.own;
 
 import org.jgraph.graph.DefaultEdge;
